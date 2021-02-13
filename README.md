@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liao limin
+- 👋 Hi, I’m liao limin
 - 👀 I’m interested in spice, qemu, linux
 - 🌱 I’m currently learning spice, qemu and gluster
 - 💞️ I’m looking to collaborate on vdi, enterprise cloud.
